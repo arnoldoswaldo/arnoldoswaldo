@@ -21,10 +21,11 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 - 💼 Buscando oportunidades como:
 
 <div align="center">
-
+  
+![Data Analyst Junior](https://img.shields.io/badge/Data%20Analyst%20Junior-1F4E79?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-1F4E79?style=for-the-badge)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-1F4E79?style=for-the-badge)
-![Data Analyst Junior](https://img.shields.io/badge/Data%20Analyst%20Junior-1F4E79?style=for-the-badge)
+
 
 </div>
 
@@ -101,9 +102,10 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 ### 🎓 Educación & Certificaciones
 
 - 🏫 **Universidad Nacional de Colombia** — Ingeniería de Sistemas y Computación (en curso)
-- 📜 Oracle Next Education (Front-End y Back-End): Java, HTML, CSS, JavaScript, Spring, Git, metodologías ágiles
+- 📜GCI World – Global Consumer Intelligence -The University of Tokyo (Matsuo-Iwasawa Laboratory
 - 📜 Especialización en Ciencia de Datos — Coursera / Universidad de los Andes
 - 📜 Desarrollo Front-End — Nivel Básico (125 horas)
+- 📜 Oracle Next Education (Front-End y Back-End): Java, HTML, CSS, JavaScript, Spring, Git, metodologías ágiles
 
 ---
 
