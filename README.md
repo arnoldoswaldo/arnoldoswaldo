@@ -95,7 +95,14 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 
 ---
 
+### 📊 Estadísticas de GitHub
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arnoldoswaldo&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=1F4E79" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldoswaldo&layout=compact&hide_border=true&title_color=1F4E79" width="30%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldoswaldo&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79" width="60%" />
 </div>
+---
 
 ---
 
