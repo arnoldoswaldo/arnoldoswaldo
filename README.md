@@ -14,7 +14,7 @@
 
 ### 🎯 Sobre mí
 
-Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**, con experiencia práctica en desarrollo full-stack, análisis de datos y sistemas basados en agentes de IA. He liderado módulos frontend y backend en proyectos de equipo con bases de datos relacionales, autenticación y despliegue en la nube, además de trabajo académico en ciberseguridad, redes y sistemas en tiempo real.
+Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**, con experiencia práctica en  análisis de datos, sistemas basados en agentes de IA y desarrollo full-stack. He liderado módulos frontend y backend en proyectos de equipo con bases de datos relacionales, autenticación y despliegue en la nube, además de trabajo académico en ciberseguridad, redes y sistemas en tiempo real.
 
 - 🔭 Actualmente construyendo proyectos de **agentes de IA** y sistemas **RAG**
 - 🌱 Profundizando en **LangGraph**, arquitecturas full-stack y buenas prácticas de backend
