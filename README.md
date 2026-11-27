@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-acosta-16301069)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aracosta@unal.edu.co)
+[![Portafolio](https://img.shields.io/badge/Portafolio-arnoldoswaldo.github.io-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://arnoldoswaldo.github.io)
 ![Profile views](https://komarev.com/ghpvc/?username=arnoldoswaldo&color=1F4E79&style=for-the-badge&label=VISITAS)
 
 </div>
@@ -14,18 +15,17 @@
 
 ### 🎯 Sobre mí
 
-Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**, con experiencia práctica en  análisis de datos, sistemas basados en agentes de IA y desarrollo full-stack. He liderado módulos frontend y backend en proyectos de equipo con bases de datos relacionales, autenticación y despliegue en la nube, además de trabajo académico en ciberseguridad, redes y sistemas en tiempo real.
+Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**, con experiencia práctica en análisis de datos y machine learning, sistemas basados en agentes de IA (LangGraph, RAG) y desarrollo full-stack (React, Node.js/Express, Spring). He desarrollado módulos de frontend y backend en proyectos de equipo con bases de datos relacionales, autenticación y despliegue en la nube, además de trabajo académico en ciberseguridad, redes y sistemas en tiempo real.
 
 - 🔭 Actualmente construyendo proyectos de **agentes de IA** y sistemas **RAG**
 - 🌱 Profundizando en **LangGraph**, arquitecturas full-stack y buenas prácticas de backend
 - 💼 Buscando oportunidades como:
 
 <div align="center">
-  
+
 ![Data Analyst Junior](https://img.shields.io/badge/Data%20Analyst%20Junior-1F4E79?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-1F4E79?style=for-the-badge)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-1F4E79?style=for-the-badge)
-
 
 </div>
 
@@ -48,6 +48,7 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 📂 Más proyectos (cómputo paralelo en C++, laboratorio de redes con Scapy, análisis de churn, simulación de sistemas) en mis repositorios →
 [![Repos](https://img.shields.io/badge/Ver%20todos%20los%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnoldoswaldo?tab=repositories)
 
+</div>
 
 
 ---
@@ -96,23 +97,25 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 ---
 
 ### 📊 Estadísticas de GitHub
- 
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=arnoldoswaldo&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=1F4E79" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldoswaldo&layout=compact&hide_border=true&title_color=1F4E79" width="30%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldoswaldo&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79" width="60%" />
+
 </div>
----
 
 ---
 
 ### 🎓 Educación & Certificaciones
 
 - 🏫 **Universidad Nacional de Colombia** — Ingeniería de Sistemas y Computación (en curso)
-- 📜GCI World – Global Consumer Intelligence -The University of Tokyo (Matsuo-Iwasawa Laboratory
+- 📜 **GCI World – Global Consumer Intelligence** — The University of Tokyo (Matsuo-Iwasawa Laboratory), 2026
 - 📜 Especialización en Ciencia de Datos — Coursera / Universidad de los Andes
-- 📜 Desarrollo Front-End — Nivel Básico (125 horas)
 - 📜 Oracle Next Education (Front-End y Back-End): Java, HTML, CSS, JavaScript, Spring, Git, metodologías ágiles
+- 📜 Desarrollo Front-End — Nivel Básico (125 horas)
 
 ---
 
@@ -122,6 +125,7 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnold%20Acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-acosta-16301069)
 [![Gmail](https://img.shields.io/badge/aracosta%40unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aracosta@unal.edu.co)
+[![Portafolio](https://img.shields.io/badge/Portafolio-arnoldoswaldo.github.io-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://arnoldoswaldo.github.io)
 
 *Bogotá, Colombia 🇨🇴*
 
